@@ -1,0 +1,7 @@
+elapsed_s,cpu_pct,ram_available_gib,ram_total_gib,disk_free_gib,disk_total_gib
+0,18,4.8,12,14,117
+2,35,2.4,12,14,117
+4,62,1.2,12,14,117
+6,43,0.9,12,14,117
+8,23,2.4,12,14,117
+10,16,4.8,12,14,117
